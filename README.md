@@ -17,7 +17,7 @@ A fully functional bluetooth module for polybar that adds an icon hat dinamicall
 Place the shell script files in your preferred sctipt directory.
 
 Add  the module to your polybar config file
-```
+```ini
 [module/bluetooth]
 type = custom/script
 exec = path/to/scripts/bluetooth.sh
