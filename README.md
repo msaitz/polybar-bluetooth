@@ -1,5 +1,5 @@
 # Polybar bluetooth module
-A fully functional bluetooth module for polybar that adds an icon hat dinamically changes according to the bluetooth status.
+A fully functional bluetooth module for polybar that adds an icon hat dinamically changes accordingly to the bluetooth status.
 
 ![on](https://github.com/msaitz/polybar-bluetooth/blob/master/screenshots/on.png) When the bluetooth is on
 
